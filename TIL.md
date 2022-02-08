@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TIL
+title: til
 ---
 
 # TIL
